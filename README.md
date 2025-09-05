@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/>  
 
-# 👋 I'm Mohammed Alharbi  
+#  Mohammed Alharbi  
 🎓 **Mechatronics Engineer** | 🤖 **Tech Explorer**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MohammedAlharbi&style=flat&color=orange&label=PROFILE+VIEWS)]()
@@ -15,7 +15,7 @@
 
 | Platform   | Link |
 |------------|------|
-| <a href="mailto:mohammedalharbi7666@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> | 📧 [mohammedalharbi7666@gmail.com](mailto:mohammedalharbi7666@gmail.com) |
+| <a href="mailto:mohammedalharbi022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> | 📧 [mohammedalharbi022@gmail.com](mailto:mohammedalharbi022@gmail.com) |
 | <a href="https://github.com/mohammedalharbi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> | 🌍 [github.com/mohammedalharbi](https://github.com/mohammedalharbi) |
 | <a href="https://t.me/mohammedalharbi"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a> | 💬 [t.me/mohammedalharbi](https://t.me/mohammedalharbi) 
 | <a href="https://facebook.com/mohammedalharbi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> | 📘 [facebook.com/mohammedalharbi](https://facebook.com/mohammedalharbi) |
